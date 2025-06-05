@@ -16,7 +16,7 @@
 - 📊 Interested in **Data Collection** and analysis
 - 🔭 Building my foundation in AI/ML
 - 🌟 Always eager to learn and grow
-- 🎯 2024 Goals: Contribute to Open Source projects
+- 🎯 2025 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn new technologies
 
 ### 🛠️ Tech Stack
