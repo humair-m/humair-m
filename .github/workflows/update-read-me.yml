@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          # Get current UTC time
+          current_time=$(date -u +"%Y-%m-%d %H:%M:%S")
+          
+          # Update the timestamp in README
+          sed -i "s/Last updated: .* UTC/Last updated: $current_time UTC/" README.md
+          
+          # Commit and push if there are changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README timestamp" || exit 0
+          git push
+
+permissions:
+  contents: write
