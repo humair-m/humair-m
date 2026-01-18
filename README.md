@@ -1,94 +1,79 @@
-<h1 align="center">Hi 👋, I'm Humair</h1>
-<h3 align="center">A passionate first-year student diving into AI & Machine Learning 🚀</h3>
+# Hi there, I'm Humair 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Enthusiast;Machine+Learning+Student;Deep+Learning+Explorer;Data+Science+Learner&center=true&width=380&height=45">
-</p>
+## 🎓 About Me
 
-<!-- Add profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humair-m&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
-</p>
+I'm a second-year student passionate about AI and Machine Learning. I'm building my expertise in data science and artificial intelligence, working on practical projects and expanding my technical skills.
 
-### 🎓 About Me
-- 🌱 I'm a first-year student passionate about technology
-- 💡 Currently exploring **Python**, **Machine Learning**, and **Deep Learning**
-- 📊 Interested in **Data Collection** and analysis
-- 🔭 Building my foundation in AI/ML
-- 🌟 Always eager to learn and grow
-- 🎯 2025 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to learn new technologies
+- 🔭 Currently working on machine learning projects and data analysis
+- 🌱 Exploring deep learning architectures and neural networks
+- 💡 Interested in computer vision and natural language processing
+- 📚 Building a portfolio of AI/ML projects
+- 🎯 Goal: Contribute to open-source AI/ML projects and collaborate with others
 
-### 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
+
+**Programming Languages:**
+- Python
+
+**Libraries & Frameworks:**
+- NumPy, Pandas
+- Scikit-learn
+- PyTorch (learning)
+- Matplotlib, Seaborn
+
+**Tools:**
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+
+## 🚀 Current Focus
+
 ```python
-my_tech_stack = {
-    'Programming': ['Python'],
-    'AI/ML': ['Machine Learning', 'Deep Learning'],
-    'Data': ['Data Collection', 'Data Analysis'],
-    'Currently Learning': ['AI Fundamentals', 'Data Science']
+current_learning = {
+    "focus_areas": [
+        "Advanced Python programming",
+        "Machine learning algorithms",
+        "Deep learning frameworks (PyTorch)",
+        "Data analysis and visualization",
+        "Building end-to-end ML pipelines"
+    ],
+    "next_steps": [
+        "Deploy ML models to production",
+        "Contribute to open-source projects",
+        "Explore computer vision applications",
+        "Learn MLOps best practices"
+    ]
 }
 ```
 
-### 🔧 Tools & Technologies
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humair-m&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humair-m&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165">
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humair-m&theme=dark" alt="GitHub Streak Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humair-m&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humair-m&layout=compact&theme=dark" alt="Top Languages">
-</p>
+## 🎯 Learning Roadmap
 
-### 🌱 Currently Learning
-- Machine Learning Fundamentals
-- Deep Learning Concepts
-- Data Collection Techniques
-- Python Advanced Concepts
-- Neural Networks and Deep Learning
-- Data Visualization
-- Version Control with Git
+**Currently Learning:**
+- ✅ Python (intermediate to advanced)
+- 🔄 Data structures and algorithms
+- ✅ Machine learning fundamentals
+- 🔄 Deep learning with PyTorch
+- 🔄 Computer vision with OpenCV
 
-### 🎯 Future Learning Goals
-- [ ] Master Python for Data Science
-- [ ] Build Machine Learning Projects
-- [ ] Contribute to Open Source
-- [ ] Create AI-powered applications
-- [ ] Learn Data Visualization tools
-- [ ] Understand Neural Networks
+**Upcoming:**
+- ⏳ Advanced neural network architectures
+- ⏳ Natural language processing
+- ⏳ MLOps and model deployment
+- ⏳ Reinforcement learning basics
 
-### 📫 How to reach me
-<p align="center">
-  <a href="https://github.com/humair-m" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Add your other social media links here -->
-</p>
+## 📫 Connect With Me
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=humair-m&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies">
-</p>
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/humair-m/humair-m/blob/output/github-contribution-grid-snake.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humair-m)
 
 ---
-⭐️ From [humair-m](https://github.com/humair-m)
 
-<!-- Add a dynamic quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+  <i>Learning in public, one commit at a time 🚀</i>
 </p>
